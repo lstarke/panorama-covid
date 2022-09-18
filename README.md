@@ -11,7 +11,7 @@ Utilizando dados do portal [Our World in Data](https://ourworldindata.org), nest
 [Link para o projeto completo](https://bit.ly/3RUrZQw)
 
 **Links para me achare:**
-* [Veja o artigo deste projeto no Medium](https://medium.com/@leandro.starke)
+* [Veja o artigo deste projeto no Medium](https://bit.ly/3RUrZQw)
 * [LinkedIn](https://www.linkedin.com/in/leandrostarke/)
 * [Instagram](https://www.instagram.com/leandrostarke/)
 * [Portfólio Completo](https://github.com/lstarke/data-science)

@@ -8,7 +8,7 @@
 
 Utilizando dados do portal [Our World in Data](https://ourworldindata.org), neste projeto exploro os dados disponibilizados para entender melhor o cenário atual referente a pandemia. O objetivo deste projeto é utilizar estes dados para entender o potencial da biblioteca matplotlib, uma das bibliotecas mais conhecidas para a geração de gráficos com Python. Com auxílio da biblioteca matplotlib tento, através de gráficos, entender melhor os dados e seu comportamento ao longo da pandemia, comparando variáveis e criando algumas hipóteses com a minha interpretação dos dados.
 
-[Link para o projeto completo](https://medium.com/@leandro.starke/como-fazer-uma-an%C3%A1lise-explorat%C3%B3ria-com-dados-do-airbnb-a1ea8be037b4)
+[Link para o projeto completo](https://bit.ly/3RUrZQw)
 
 **Links para me achare:**
 * [Veja o artigo deste projeto no Medium](https://medium.com/@leandro.starke)
